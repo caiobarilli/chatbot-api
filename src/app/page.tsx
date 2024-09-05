@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <>
-      <span>api v1.0.0</span>
+      <span>api v1</span>
     </>
   );
 }
