@@ -1,11 +1,22 @@
-## Next.js Boilerplate
+## CHATBOT API
+
+...
+
+
+### Requirements
+
+Node.js v20.15.0 or higher
+
+### Installation
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
+```
+
+### Running
+
+```bash
+npm run build
+
+npm start
 ```
